@@ -14,6 +14,7 @@ ShoppingGPT is an AI-powered intelligent shopping assistant that combines advanc
 - 🔍 **Advanced Product Search**: Utilizes case-insensitive and partial matching capabilities, powered by efficient SQLite queries and indexing.
 - 💬 **Intelligent Chatbot Interface**: User-friendly chat interface designed for intuitive product queries and personalized recommendations.
 
+https://fantastic-florentine-730644.netlify.app/
 
 ## System Architecture
 
